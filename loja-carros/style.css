@@ -1,0 +1,38 @@
+#titulo {
+  text-align: center;
+  color: black;
+}
+
+h2 {
+  margin: 0px;
+}
+div {
+  color: white;
+  background-color: black;
+  padding: 30px;
+  margin: 10px;
+  border-radius: 4px;
+}
+
+span {
+  color: #febe01;
+}
+
+p {
+  color: #b2b2b2;
+}
+
+a {
+  background-color: #febe01;
+  color: #332200;
+  border-radius: 4px;
+  padding: 7px;
+  display: block;
+  width: 120px;
+  text-decoration: none;
+  margin-left: 7px;
+}
+
+body {
+  font-family: Arial;
+}
